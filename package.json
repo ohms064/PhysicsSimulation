@@ -1,0 +1,12 @@
+{
+    "name": "com.ohms.physics",
+    "displayName": "Physics Simulation",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "Physics simulation example and basic framework.",
+    "keywords": ["ohms", "utilities"],
+    "category": "utilities",
+    "dependencies": {
+        "com.ohms.pooling":"https://github.com/oms064/PoolingSystem.git"
+    }
+}

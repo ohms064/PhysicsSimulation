@@ -1,0 +1,15 @@
+{
+    "name": "OhmsLibrarires.PhysicsSimulation",
+    "references": [
+        "GUID:b44611c1fd7e1454b9fe72cba6f59803"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
