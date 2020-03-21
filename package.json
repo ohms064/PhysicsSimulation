@@ -1,7 +1,7 @@
 {
     "name": "com.ohms.physics",
     "displayName": "Physics Simulation",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "unity": "2019.1",
     "description": "Physics simulation example and basic framework.",
     "keywords": ["ohms", "utilities"],
